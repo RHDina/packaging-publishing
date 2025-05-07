@@ -135,3 +135,7 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+venv/
+*.lock
+*.egg-info/
+.DS_Store
